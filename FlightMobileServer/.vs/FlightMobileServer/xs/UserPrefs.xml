@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{E570526F-EDEA-41B2-A775-323138B179FA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../Downloads/FlightSimulator/FlightSimulatorApp/FlightSimModel.cs">
+    <Files>
+      <File FileName="FlightMobileWeb/Controllers/commandController.cs" Line="23" Column="44" />
+      <File FileName="FlightMobileWeb/Model/FlightGearClient.cs" Line="1" Column="1" />
+      <File FileName="../../../../../Downloads/FlightSimulator/FlightSimulatorApp/FlightSimModel.cs" Line="1" Column="1" />
+      <File FileName="FlightMobileWeb/Startup.cs" Line="32" Column="13" />
+      <File FileName="FlightMobileWeb/appsettings.json" Line="19" Column="37" />
+      <File FileName="FlightMobileWeb/Controllers/screenshotController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FlightMobileServer" expanded="True">
+            <Node name="FlightMobileWeb" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Model" expanded="True">
+                <Node name="FlightGearClient.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../EX2/FlightControl/FlightControlWeb/Startup.cs" line="19" column="45" endLine="19" endColumn="56" offsetX="-1" offsetY="-1" expression="Microsoft.Extensions.Caching.Memory.MemoryCache" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.FlightMobileWeb PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
